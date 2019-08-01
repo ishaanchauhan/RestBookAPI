@@ -1,0 +1,12 @@
+server.port: 9197
+server.contextPath: /BookApi
+
+spring:
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/BOOK_API?useSSL=false
+    username: root
+    password: ishan
+  
+    
+    

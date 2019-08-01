@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BookStore
+Implementation-Version: 1.0.0
+Built-By: OGS
+Implementation-Vendor-Id: com.bcs
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/BookAPI/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
